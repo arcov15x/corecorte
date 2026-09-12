@@ -2,7 +2,8 @@
 
 Site demonstrativo premium criado pela VELTIX.
 
-O código-fonte completo está no arquivo `Dra-Aleksandra-Carla-Demo-VELTIX-PRO.zip`.
-A Vercel extrai o pacote durante o build e publica o conteúdo da pasta `dist`.
-
-Enquanto for apenas uma demonstração, o site permanece com `noindex`.
+- HTML/CSS/JS principal em um único `index.html`
+- Identidade visual demonstrativa com monograma AC
+- Responsivo para desktop, tablet e celular
+- Solicitação de avaliação via WhatsApp
+- `noindex` enquanto o projeto estiver em fase de demonstração

@@ -1,8 +1,5 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "installCommand": "",
-  "buildCommand": "rm -rf dist && mkdir -p dist && unzip -q Dra-Aleksandra-Carla-Demo-VELTIX-PRO.zip -d dist && rm -f dist/vercel.json dist/README.md",
-  "outputDirectory": "dist",
   "cleanUrls": true,
   "trailingSlash": false,
   "headers": [
